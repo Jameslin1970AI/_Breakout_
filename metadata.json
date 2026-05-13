@@ -1,0 +1,6 @@
+{
+  "name": "Neon Breakout Fusion",
+  "description": "A high-performance Breakout game built with React, TypeScript, and HTML5 Canvas. Features smooth controls, multi-level brick layouts, and neon aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
